@@ -1,0 +1,12 @@
+# ignore all warnings from all pods
+inhibit_all_warnings!
+
+source 'https://github.com/CocoaPods/Specs.git'
+
+pod 'RestKit'
+
+pod 'SDWebImage'
+
+pod 'Reachability'
+
+pod 'MBProgressHUD'
